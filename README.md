@@ -1,4 +1,3 @@
-# iss-altitude-lstm-kp
 # ISS Altitude Prediction from Geomagnetic Kp Index (LSTM)
 
 Code and data for "Persistence, Not Prediction: Evaluating an LSTM 
